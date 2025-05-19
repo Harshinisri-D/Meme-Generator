@@ -11,7 +11,7 @@ Processing the image and text is done client-side, so no data is sent to any ser
 
 ## Live demo
 
-👉 [Meme Generator](https://georapbox.github.io/meme-generator/)
+👉 [Meme Generator](https://memegr.netlify.app/)
 
 ## Features
 

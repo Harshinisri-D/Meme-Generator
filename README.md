@@ -37,20 +37,6 @@ Below are the instructions for setting up the development environment.
 - Node.js (v20.x.x)
 - npm (v10.x.x)
 
-### Installation
-
-Clone the repository to your local machine:
-
-```sh
-git clone git@github.com:georapbox/meme-generator.git
-```
-
-Navigate to the project's directory and install the dependencies:
-
-```sh
-npm install
-```
-
 ### Running the application
 
 To run the application in development mode, run the following command:
